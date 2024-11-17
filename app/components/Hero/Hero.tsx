@@ -1,6 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
 import styles from "./hero.module.css";
-import Section1 from "./section/Section1";
+import Section1 from "./section/HeroSection";
 function Hero() {
   return (
     <div className={styles.hero}>
